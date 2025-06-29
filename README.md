@@ -1,4 +1,4 @@
-![Project Banner](assets/banner.png)
+![Project Banner](assets/github_banner_ml_oa.png)
 
 # Predicting Older Adults' Trust in Assistive Robots using Machine Learning
 
