@@ -1,14 +1,16 @@
 ![Project Banner](assets/github_banner_ml_oa.png)
 
-# Predicting Older Adults' Trust in Assistive Robots using Machine Learning
+# A Machine Learning Approach to Understanding Older Adults' Trust in Assistive Robots
 
-![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Data License](https://img.shields.io/badge/Data%20License-CC--BY--NC%204.0-lightgrey)
-![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
 [![View Presentation](https://img.shields.io/badge/View-Presentation-green)](https://saathveek.com/Projects/UGRS_2024/Slides)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+[![MIT License](https://img.shields.io/badge/Software%20License-MIT-blue.svg)](LICENSE)
+[![Data License: CC BY-NC 4.0](https://img.shields.io/badge/Data%20License-CC--BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-This project applies supervised machine learning models to predict older adults’ trust in novel assistive robots. This research was conducted under the guidance of Dr. Samuel Olatunji and Dr. Wendy Rogers as an independent study in the Human Factors and Aging Laboratory at the University of Illinois Urbana-Champaign, between January 2023 and April 2024.
+This project applies supervised machine learning models to predict older adults’ trust in novel assistive robots. 
+
+The research was conducted under the guidance of Dr. Samuel Olatunji and Dr. Wendy Rogers as an independent study in the Human Factors and Aging Laboratory at the University of Illinois Urbana-Champaign, and it was presented at the Illinois Undergraduate Research Symposium in April 2024.
 
 ## Project Overview
 
@@ -23,6 +25,10 @@ As the global population ages, assistive robots offer significant potential to s
 - **Data Collection:** Survey responses from adults aged 65+ about their trust in emerging assistive robots.
 - **Modeling Techniques:** Lasso Regression and Ridge Regression.
 - **Evaluation Metrics:** Mean Squared Error (MSE), R² Score, and K-Fold Cross-Validation.
+- **Features Used:**  
+  - *Familiarity*: Self-reported familiarity with robot types across domains (e.g. autonomous cars, military robots, surgical robots, etc.)  
+  - *Trust Dimensions*: Participant ratings of perceived robot trustworthiness (e.g. reliable, accurate, dependable, etc.)
+
 
 ## Key Findings
 
