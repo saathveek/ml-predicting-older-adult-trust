@@ -27,13 +27,12 @@ As the global population ages, assistive robots offer significant potential to s
 - **Evaluation Metrics:** Mean Squared Error (MSE), R² Score, and K-Fold Cross-Validation.
 - **Features Used:**  
   - *Familiarity*: Self-reported familiarity with robot types across domains (e.g. autonomous cars, military robots, surgical robots, etc.)  
-  - *Trust Dimensions*: Participant ratings of perceived robot trustworthiness (e.g. reliable, accurate, dependable, etc.)
+  - *Trust*: Participant ratings of perceived robot trustworthiness (e.g. reliable, accurate, dependable, etc.)
 
 
 ## Key Findings
 
-- Prior familiarity with technology is a strong predictor of trust in assistive robots.
-- Interpretable regression models revealed the importance of age, technology usage habits, and openness to innovation.
+- Prior familiarity with __________________ is a strong predictor of trust in assistive robots.
 
 ## Presentations
 
