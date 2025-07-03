@@ -3,8 +3,8 @@
 # A Machine Learning Approach to Understanding Older Adults' Trust in Assistive Robots
 
 [![View Presentation](https://img.shields.io/badge/View-Presentation-green)](https://saathveek.com/Projects/UGRS_2024/Slides)
-![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
 [![MIT License](https://img.shields.io/badge/Software%20License-MIT-blue.svg)](LICENSE)
 [![Data License: CC BY-NC 4.0](https://img.shields.io/badge/Data%20License-CC--BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
